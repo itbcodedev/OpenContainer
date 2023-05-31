@@ -1,0 +1,10 @@
+[book]
+authors = ["sawangpong muadphet"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Open Container Hand On"
+
+[build]
+build-dir = "docs"
+
